@@ -1,4 +1,4 @@
-Deep Interaction and Self-Attention Fusion Recommendation Model based on ID Feature Dataset
+Datasets for Deep Interaction and Self-Attention Fusion Recommendation Model based on ID Feature 
 ===
 This repository contains data sets used in our research paper "Deep Interaction and Self-focused Fusion Recommendation Model Based on ID Features." The dataset consists of user interactions with the project, including user and project ids, ratings and user characteristics, project characteristics, and timestamps.
 
